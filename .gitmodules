@@ -1,0 +1,3 @@
+[submodule "src/omp-sharp"]
+	path = src/omp-sharp
+	url = https://github.com/duydang2311/omp-sharp.git
